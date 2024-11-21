@@ -363,18 +363,16 @@
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+| Categoria do Risco  | Descrição do Risco | Probabilidade | Impacto       | Risco         | Medidas de Prevenção (Contra medidas) | Medidas de Contingência (Mitigação) | 
+|---------------------|--------------------|---------------|---------------|---------------|--------------------------------------|-------------------------------------|
+| 1.                  |                    |               |               |               |                                      |                                     |
+| 2.                  |                    |               |               |               |                                      |                                     |
+| 3.                  |                    |               |               |               |                                      |                                     |
+| 4.                  |                    |               |               |               |                                      |                                     |
+| 5.                  |                    |               |               |               |                                      |                                     |
+| 6.                  |                    |               |               |               |                                      |                                     |
+| 7.                  |                    |               |               |               |                                      |                                     |
+| 8.                  |                    |               |               |               |                                      |                                     |
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
